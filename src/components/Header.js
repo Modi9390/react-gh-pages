@@ -12,7 +12,7 @@ function Header() {
           <li><a href="#contact">Contact</a></li>
         </ul>
       </nav>
-      <a className="button" href="https://your-app-url.com" target="_blank" rel="noopener noreferrer">View App</a>
+      <a className="button" href="https://my-alx-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">View App</a>
     </header>
   );
 }

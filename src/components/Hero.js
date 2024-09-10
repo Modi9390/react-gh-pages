@@ -11,7 +11,7 @@ function Hero() {
           experience for fashion enthusiasts.
 
         </p>
-        <a className="button" href="https://your-app-url.com" target="_blank" rel="noopener noreferrer">Explore the App</a>
+        <a className="button" href="https://my-alx-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">Explore the App</a>
       </div>
     </section>
   );
